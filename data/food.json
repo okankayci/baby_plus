@@ -1,0 +1,239 @@
+[
+  {
+    "age_range": "6-8 ay",
+    "recipes": [
+      {
+        "name": "Pirinç Lapası",
+        "ingredients": [
+          "1 yemek kaşığı pirinç",
+          "1 çay bardağı su"
+        ],
+        "instructions": [
+          "Pirinci iyice yıka.",
+          "Su ile birlikte yumuşayana kadar pişir.",
+          "Blendırdan geçirerek püre haline getir.",
+          "İstersen anne sütü ile karıştırabilirsin."
+        ]
+      },
+      {
+        "name": "Havuç Püresi",
+        "ingredients": [
+          "1 küçük havuç"
+        ],
+        "instructions": [
+          "Havucu yıka, soy ve küçük doğra.",
+          "Buharda veya az su ile haşla.",
+          "Blendırdan geçirerek püre yap.",
+          "İstersen birkaç damla zeytinyağı ekleyebilirsin."
+        ]
+      },
+      {
+        "name": "Elma Püresi",
+        "ingredients": [
+          "1/2 tatlı elma"
+        ],
+        "instructions": [
+          "Elmayı soy, rendele veya doğra.",
+          "Buharda veya çok az suyla pişir.",
+          "Ezerek veya blendırla püre yap."
+        ]
+      },
+      {
+        "name": "Muz Püresi",
+        "ingredients": [
+          "1/3 olgun muz"
+        ],
+        "instructions": [
+          "Muzu çatalla ez.",
+          "Direkt olarak bebeğine yedirebilirsin.",
+          "İstersen anne sütüyle karıştırarak verebilirsin."
+        ]
+      },
+      {
+        "name": "Kabak Püresi",
+        "ingredients": [
+          "1 küçük kabak"
+        ],
+        "instructions": [
+          "Kabağı soy, doğra ve haşla.",
+          "Yumuşadıktan sonra ezerek püre haline getir.",
+          "İsteğe bağlı birkaç damla zeytinyağı eklenebilir."
+        ]
+      }
+    ]
+  },
+  {
+    "age_range": "8-10 ay",
+    "recipes": [
+      {
+        "name": "Muzlu Yulaf Püresi",
+        "ingredients": [
+          "1/2 olgun muz",
+          "1 yemek kaşığı yulaf ezmesi",
+          "1/2 çay bardağı su"
+        ],
+        "instructions": [
+          "Yulafı küçük bir cezvede su ile yumuşayana kadar pişir.",
+          "Muzu ezerek ekle ve karıştır.",
+          "Gerekirse blenderdan geçir."
+        ]
+      },
+      {
+        "name": "Havuç ve Patates Püresi",
+        "ingredients": [
+          "1 küçük havuç",
+          "1 küçük patates",
+          "1/2 çay bardağı su"
+        ],
+        "instructions": [
+          "Sebzeleri küçük doğrayıp suyla haşla.",
+          "Yumuşadığında ezerek püre haline getir.",
+          "Gerekirse az su ile kıvamını ayarla."
+        ]
+      },
+      {
+        "name": "Avokado Püresi",
+        "ingredients": [
+          "1/4 olgun avokado"
+        ],
+        "instructions": [
+          "Avokadoyu çatalla ez.",
+          "Tek başına ya da anne sütü ile karıştırarak ver."
+        ]
+      },
+      {
+        "name": "Elma-Armut Püresi",
+        "ingredients": [
+          "1/2 elma",
+          "1/2 armut"
+        ],
+        "instructions": [
+          "Meyveleri buharda ya da az suda pişir.",
+          "Soğuyunca püre haline getir."
+        ]
+      }
+    ]
+  },
+  {
+    "age_range": "10-12 ay",
+    "recipes": [
+      {
+        "name": "Yoğurtlu Kabak Püresi",
+        "ingredients": [
+          "1 küçük kabak",
+          "2 yemek kaşığı ev yapımı yoğurt"
+        ],
+        "instructions": [
+          "Kabağı haşla ve püre yap.",
+          "Soğuduktan sonra yoğurtla karıştır."
+        ]
+      },
+      {
+        "name": "Sebzeli Makarna",
+        "ingredients": [
+          "1/4 su bardağı küçük makarna",
+          "1 küçük havuç",
+          "5-6 dal ıspanak",
+          "1 çay kaşığı zeytinyağı"
+        ],
+        "instructions": [
+          "Makarnayı haşla.",
+          "Sebzeleri doğra ve ayrıca haşla.",
+          "Haşlanmış sebzeleri püre haline getir.",
+          "Makarna ve sebze püresini karıştır, zeytinyağı ekle."
+        ]
+      },
+      {
+        "name": "Pekmezli Muhallebi",
+        "ingredients": [
+          "1 çay kaşığı tam buğday unu",
+          "1/2 çay bardağı su",
+          "1 tatlı kaşığı keçiboynuzu pekmezi"
+        ],
+        "instructions": [
+          "Un ve suyu pişirerek kıvam almasını sağla.",
+          "Soğuduktan sonra pekmezi ekle ve karıştır."
+        ]
+      },
+      {
+        "name": "Mercimek Çorbası",
+        "ingredients": [
+          "2 yemek kaşığı kırmızı mercimek",
+          "1/4 küçük soğan",
+          "1/4 havuç",
+          "1 tatlı kaşığı zeytinyağı",
+          "1 su bardağı su"
+        ],
+        "instructions": [
+          "Mercimek, soğan ve havucu yıka ve doğra.",
+          "Tüm malzemeleri su ile pişir.",
+          "Blenderdan geçir ve kıvamına göre su ekle."
+        ]
+      }
+    ]
+  },
+  {
+    "age_range": "12+ ay",
+    "recipes": [
+      {
+        "name": "Yumurtalı Patates",
+        "ingredients": [
+          "1 küçük patates",
+          "1 yumurta sarısı",
+          "1 tatlı kaşığı zeytinyağı"
+        ],
+        "instructions": [
+          "Patatesi haşla ve ezerek püre yap.",
+          "Yumurta sarısını hafif çırp.",
+          "Zeytinyağını ısıt, yumurtayı ekle ve karıştır.",
+          "Patates püresini ekle ve karıştır."
+        ]
+      },
+      {
+        "name": "Meyveli Yoğurt",
+        "ingredients": [
+          "4 yemek kaşığı ev yapımı yoğurt",
+          "1/4 muz",
+          "2-3 çilek"
+        ],
+        "instructions": [
+          "Meyveleri küçük doğra veya püre yap.",
+          "Yoğurtla karıştır."
+        ]
+      },
+      {
+        "name": "Sebzeli Köfte",
+        "ingredients": [
+          "2 yemek kaşığı haşlanmış kıyma",
+          "1 patates",
+          "1/4 havuç",
+          "1 dilim ekmek içi"
+        ],
+        "instructions": [
+          "Patatesi haşla ve ez.",
+          "Havucu rendele.",
+          "Ekmek içini ıslat ve sık.",
+          "Tüm malzemeleri karıştır ve köfte şekli ver.",
+          "Fırında veya az yağda pişir."
+        ]
+      },
+      {
+        "name": "Meyveli Yulaf",
+        "ingredients": [
+          "2 yemek kaşığı yulaf",
+          "1/2 elma",
+          "1/2 armut",
+          "1 tatlı kaşığı kuru üzüm",
+          "1/2 su bardağı süt"
+        ],
+        "instructions": [
+          "Yulafı sütle pişir.",
+          "Meyveleri rendele ve ekle.",
+          "Kuru üzümü ekle ve karıştır."
+        ]
+      }
+    ]
+  }
+]
+
+
