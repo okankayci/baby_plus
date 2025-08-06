@@ -10,7 +10,17 @@
     "publishDate": "2025-07-15T10:30:00Z",
     "tags": ["yenidoğan", "bebek bakımı", "yeni ebeveynler", "bebek sağlığı"]
   },
- 
+ {
+    "id": "deneme-deneme-101",
+    "title": "deneme",
+    "subtitle": "Bebeğinizin ilk günlerinde bilmeniz gereken her şey",
+    "content": "Yenidoğan bakımı, yeni ebeveynler için hem heyecan verici hem de zorlayıcı olabilir. Bu rehberde, bebeğinizin temel ihtiyaçlarını karşılamak için gerekli tüm bilgileri bulacaksınız. Yenidoğan beslenmesi, alt değiştirme, banyo yaptırma ve uyku düzeni hakkında pratik ipuçları içerir. Ayrıca, bebeğinizin sağlıklı gelişimi için önemli olan rutin kontroller ve aşı takvimi hakkında da bilgi edineceksiniz.",
+    "imagePath": "https://raw.githubusercontent.com/okankayci/baby_plus/refs/heads/main/data/articles/images/articles_7.jpg",
+    "category": "Yenidoğan Bakımı",
+    "readTimeMinutes": 8,
+    "publishDate": "2025-07-15T10:30:00Z",
+    "tags": ["yenidoğan", "bebek bakımı", "yeni ebeveynler", "bebek sağlığı"]
+  },
   {
     "id": "baby-milestones-first-year",
     "title": "Bebeğinizin İlk Yılı: Gelişim Dönüm Noktaları",
