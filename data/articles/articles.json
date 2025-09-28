@@ -1,46 +1,46 @@
 [
-    
   {
     "id": "baby-sleep-tips",
     "title": "Bebeklerde Uyku Düzeni İçin İpuçları",
     "subtitle": "Bebeğinizin daha iyi uyuması için öneriler",
-    "content": "Bebeklerin uyku düzeni, ebeveynler için en büyük zorluklardan biri olabilir. Ancak doğru yaklaşımlar ve rutinlerle bu süreci kolaylaştırabilirsiniz. Bebeklerin uykuya dalmasını kolaylaştırmak için sakin bir ortam yaratmak, uyku öncesi rutinler oluşturmak ve bebeğin biyolojik saatine uygun hareket etmek önemlidir. Uyku öncesi banyo yaptırmak, hafif bir masaj yapmak ve ninni söylemek gibi aktiviteler bebeğinizin rahatlamasına yardımcı olabilir. Ayrıca, uyku sırasında güvenliği sağlamak için sırt üstü yatırmak ve yatağında yastık, battaniye gibi eşyalar bulundurmamak gerekir. Bebeklerin uyku düzeni oluşturulurken sabırlı olmak ve her bebeğin farklı bir ritmi olduğunu unutmamak önemlidir. Bu rehberde, bebeğinizin uyku düzenini oluşturmanıza yardımcı olacak pratik ipuçlarını ve bilimsel temelli önerileri bulabilirsiniz.",
+    "content": "Bebeklerin uyku düzeni, ebeveynler için en büyük zorluklardan biri olabilir. Ancak doğru yaklaşımlar ve rutinlerle bu süreci kolaylaştırabilirsiniz. Bebekler ilk aylarda günün büyük bir bölümünü uykuda geçirirler fakat bu uyku genellikle düzensizdir. Zamanla biyolojik saatleri gelişmeye başlar. Uyku düzeni oluştururken sakin bir ortam yaratmak, uyku öncesi rutinler geliştirmek ve bebeğinizin yaşına uygun uyku süresini bilmek önemlidir.\n\nÖrneğin, yenidoğanlar günde ortalama 16-18 saat uyurken, 6-12 aylık bebeklerin günlük uyku ihtiyacı 12-15 saate düşer. Bu nedenle her yaş döneminde uyku beklentiniz farklı olmalıdır. Uyku öncesi banyo yaptırmak, hafif bir masaj yapmak, loş ışıkta ninni söylemek gibi aktiviteler bebeğinizin rahatlamasına yardımcı olur. Ayrıca uyku sırasında güvenlik çok önemlidir; bebeğinizi mutlaka sırt üstü yatırın, yatağında yastık, battaniye, peluş oyuncak gibi eşyalar bulundurmayın. Bu, ani bebek ölümü sendromu (SIDS) riskini azaltır.\n\nBebeklerin uyku düzeni oluşturulurken sabırlı olmak gerekir. Her bebeğin farklı bir ritmi vardır; bazı bebekler kolayca uyurken bazıları daha fazla ilgiye ihtiyaç duyar. Düzenli uyku rutinleri hem bebeğinizin gelişimini destekler hem de ebeveynlerin dinlenmesine katkı sağlar. Bu rehberde, uyku ortamının hazırlanmasından uyku gerilemeleriyle (sleep regression) başa çıkmaya kadar pek çok ipucu bulabilirsiniz.",
     "imagePath": "https://raw.githubusercontent.com/okankayci/baby_plus/refs/heads/main/data/articles/images/articles_2.jpg",
     "category": "Bebek Uyku Düzeni",
     "readTimeMinutes": 10,
     "publishDate": "2025-08-12T10:00:00Z",
     "tags": ["bebek uyku", "uyku düzeni", "ebeveyn ipuçları"]
-}, {
+  },
+  {
     "id": "baby-feeding-guide",
     "title": "Bebek Beslenmesi: İlk Aylar",
     "subtitle": "Bebeğinizin sağlıklı büyümesi için beslenme rehberi",
-    "content": "Bebeklerin ilk aylarında doğru beslenme, sağlıklı bir gelişim için kritik öneme sahiptir. Anne sütü, bebeğiniz için en ideal besindir ve ilk 6 ay boyunca önerilir. Anne sütü, bebeğinizin bağışıklık sistemini güçlendiren ve enfeksiyonlara karşı koruyan antikorlar içerir. Eğer anne sütü mümkün değilse, doktorunuzun önerdiği formül mamaları kullanabilirsiniz. Beslenme sırasında hijyen kurallarına dikkat etmek, biberon ve emzik gibi malzemeleri düzenli olarak sterilize etmek önemlidir. Ayrıca, bebeğinizin açlık sinyallerini tanımak, onun ihtiyaçlarını daha iyi anlamanıza yardımcı olur. Açlık sinyalleri arasında ellerini ağzına götürmesi, dudaklarını büzmesi ve huzursuzlanması sayılabilir. Bu rehberde, bebeğinizin beslenme ihtiyaçlarını anlamanıza ve doğru şekilde karşılamanıza yardımcı olacak detaylı bilgiler bulabilirsiniz. Ayrıca, gaz çıkarma yöntemleri ve beslenme sonrası bebeğinizi rahatlatma teknikleri hakkında da öneriler sunulmaktadır.",
+    "content": "Bebeklerin ilk aylarında doğru beslenme, sağlıklı bir gelişim için kritik öneme sahiptir. Anne sütü, bebeğiniz için en ideal besindir ve ilk 6 ay boyunca önerilir. Anne sütü, bebeğinizin bağışıklık sistemini güçlendiren, sindirimi kolaylaştıran ve enfeksiyonlara karşı koruyan antikorlar içerir. Eğer anne sütü mümkün değilse, doktorunuzun önerdiği formül mamalar güvenli bir alternatiftir. Mama seçerken içeriğe ve bebeğinizin hassasiyetlerine dikkat etmek gerekir.\n\nBeslenme sırasında hijyen kuralları hayati önem taşır. Biberon, emzik ve mama kapları her kullanımdan önce sterilize edilmelidir. Ayrıca bebeğinizin açlık sinyallerini tanımak, ihtiyaçlarını daha doğru karşılamanızı sağlar. Açlık belirtileri arasında ellerini ağzına götürmesi, dudaklarını emmesi, huzursuzlanması ve ağlaması sayılabilir. Ağlamak genellikle geç kalınmış bir açlık sinyalidir.\n\nBebek beslenmesinde yalnızca açlık değil, gaz çıkarma ve sindirim rahatlığı da göz önünde bulundurulmalıdır. Her beslenme sonrası bebeğin gazını çıkarmak, hem konforunu artırır hem de uyku düzenini olumlu etkiler. İlk aylarda bebekler sık sık beslendiği için, düzenli saatlere bağlı kalmak yerine bebeğin ihtiyaçlarına göre esnek olmak daha faydalıdır. Bu rehberde, doğru emzirme pozisyonları, mama hazırlama kuralları, gaz çıkarma yöntemleri ve bebeğinizi rahatlatacak beslenme sonrası teknikler hakkında detaylı bilgiler bulabilirsiniz.",
     "imagePath": "https://raw.githubusercontent.com/okankayci/baby_plus/refs/heads/main/data/articles/images/articles_3.jpg",
     "category": "Bebek Beslenmesi",
     "readTimeMinutes": 12,
     "publishDate": "2025-08-12T11:00:00Z",
     "tags": ["bebek beslenmesi", "anne sütü", "formül mama", "bebek sağlığı"]
-},
-{
+  },
+  {
     "id": "baby-bath-guide",
     "title": "Bebeklerde Banyo ve Temizlik Rehberi",
     "subtitle": "Bebeğinizin cildine uygun, güvenli ve keyifli banyo deneyimi için öneriler",
-    "content": "Bebeklerin cildi yetişkinlere göre çok daha hassastır ve özel bakım gerektirir. İlk aylarda bebeğinizi haftada 2-3 kez yıkamak yeterlidir. Banyo için oda sıcaklığının 24-26°C, suyun ise 36-37°C olması idealdir. Bebeğinizi yıkamadan önce tüm malzemelerinizi hazırlayın: yumuşak bir havlu, bebek şampuanı, temiz bir bez ve pamuklu giysiler. Bebeğinizi yıkarken başını ve boynunu destekleyin, sabun ve şampuanı az miktarda kullanın. Banyo sonrası cildini nazikçe kurulayın ve gerekirse nemlendirici sürün. Göbek bağı düşene kadar bu bölgeyi kuru tutmaya özen gösterin. Banyo, bebeğinizle bağ kurmak ve onu rahatlatmak için harika bir fırsattır. Ayrıca, banyo sonrası yapılan hafif masaj, bebeğinizin uykuya geçişini kolaylaştırır.",
+    "content": "Bebeklerin cildi yetişkinlere göre çok daha hassastır ve özel bakım gerektirir. İlk aylarda bebeğinizi haftada 2-3 kez yıkamak yeterlidir. Sık yıkamak cildin doğal yağ dengesini bozabilir. Banyo için oda sıcaklığının 24-26°C, suyun ise 36-37°C olması idealdir. Su sıcaklığını dirseğinizle test ederek ayarlayabilirsiniz.\n\nBebeğinizi yıkamadan önce tüm malzemelerinizi hazır bulundurun: yumuşak bir havlu, bebek şampuanı, temiz bezler ve pamuklu giysiler. Banyo sırasında bebeğinizin başını ve boynunu mutlaka destekleyin, kaymaz bir zemin kullanın. Sabun ve şampuanı az miktarda kullanmak, cilt tahrişini önler. Banyo sonrası cildini nazikçe kurulamak ve gerekirse nemlendirici sürmek, kuruluk ve tahrişe karşı koruma sağlar.\n\nGöbek bağı düşene kadar bebeğinizi tam su banyosu yerine sünger banyosu ile temizlemek daha uygundur. Ayrıca, banyo yalnızca temizlik için değil, bebeğinizle bağ kurmak için de harika bir fırsattır. Göz teması kurmak, yumuşak ses tonuyla konuşmak ve banyo sonrası yapılan hafif bir masaj bebeğinizin hem rahatlamasını hem de uykuya geçişini kolaylaştırır.\n\nBu rehberde, banyo sıklığı, güvenlik önlemleri, banyo sonrası bakım ve banyo zamanını keyifli hale getirecek öneriler bulabilirsiniz.",
     "imagePath": "https://raw.githubusercontent.com/okankayci/baby_plus/refs/heads/main/data/articles/images/articles_4.jpg",
     "category": "Bebek Bakımı",
     "readTimeMinutes": 9,
     "publishDate": "2025-08-12T12:00:00Z",
     "tags": ["bebek banyosu", "bebek temizliği", "bebek bakımı"]
-},
-{
+  },
+  {
     "id": "baby-health-checks",
     "title": "Bebeklerde Sağlık Kontrolleri ve Aşı Takvimi",
     "subtitle": "Bebeğinizin sağlıklı gelişimi için düzenli kontrollerin ve aşıların önemi",
-    "content": "Bebeklerin sağlıklı büyümesi için düzenli doktor kontrolleri ve aşılar büyük önem taşır. Doğumdan sonraki ilk hafta içinde mutlaka bir çocuk doktoru kontrolü yapılmalıdır. Bu kontrollerde bebeğin kilosu, boyu, baş çevresi ölçülür ve genel sağlık durumu değerlendirilir. İlk 6 ayda bebekler için Hepatit B, BCG, DaBT-IPA-Hib, KPA ve rotavirüs gibi aşılar uygulanır. Aşılar, bebeğin bağışıklık sistemini güçlendirir ve ciddi hastalıklara karşı koruma sağlar. Kontroller sırasında doktorunuzdan beslenme, uyku ve gelişimle ilgili sorularınızı çekinmeden sorabilirsiniz. Ayrıca, sarılık, ateş, solunum güçlüğü gibi belirtiler gözlemlendiğinde vakit kaybetmeden sağlık kuruluşuna başvurmak gerekir. Bu rehberde, bebeklerde sağlık kontrollerinin sıklığı, aşı takvimi ve dikkat edilmesi gereken noktalar detaylı şekilde anlatılmaktadır.",
+    "content": "Bebeklerin sağlıklı büyümesi için düzenli doktor kontrolleri ve aşılar büyük önem taşır. Doğumdan sonraki ilk hafta içinde mutlaka bir çocuk doktoru kontrolü yapılmalıdır. Bu kontrollerde bebeğin kilosu, boyu, baş çevresi ölçülür ve genel sağlık durumu değerlendirilir. Ayrıca işitme testi ve topuk kanı gibi tarama testleri erken teşhis için hayati rol oynar.\n\nİlk 6 ayda bebeklere Hepatit B, BCG (verem), DaBT-IPA-Hib (difteri, boğmaca, tetanoz, çocuk felci ve menenjit), KPA (zatürre) ve rotavirüs gibi aşılar uygulanır. Aşılar, bebeğin bağışıklık sistemini güçlendirir ve ciddi hastalıklara karşı uzun vadeli koruma sağlar. Aşı sonrası hafif ateş, huzursuzluk veya enjeksiyon bölgesinde kızarıklık gibi yan etkiler görülebilir; bunlar genellikle kısa sürelidir.\n\nDüzenli kontroller sırasında doktorunuza beslenme, uyku, gelişim basamakları (baş tutma, dönme, oturma) gibi konularda sorular yöneltebilirsiniz. Ayrıca sarılık, ateş, solunum güçlüğü, emmeme veya aşırı uyku hali gibi belirtiler gözlemlendiğinde vakit kaybetmeden sağlık kuruluşuna başvurmak gerekir.\n\nBu rehberde, aşı takvimi detaylı şekilde açıklanmakta, her kontrolün amacı ve ebeveynlerin dikkat etmesi gereken noktalar adım adım anlatılmaktadır. Böylece bebeğinizin sağlıklı gelişimini güvenle takip edebilirsiniz.",
     "imagePath": "https://raw.githubusercontent.com/okankayci/baby_plus/refs/heads/main/data/articles/images/articles_5.jpg",
     "category": "Bebek Sağlığı",
     "readTimeMinutes": 11,
     "publishDate": "2025-08-12T13:00:00Z",
     "tags": ["bebek sağlığı", "aşı takvimi", "doktor kontrolü"]
-}
+  }
 ]
